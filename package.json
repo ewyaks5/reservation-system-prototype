@@ -1,0 +1,24 @@
+{
+  "name": "reservation-system-prototype",
+  "version": "1.0.0",
+  "description": "A simple rservation system for a hotel",
+  "main": "index.js",
+  "repository": "https://github.com/ewyaks5/reservation-system-prototype.git",
+  "author": "StaleExam19 <staleexam19@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@snowpack/plugin-postcss": "^1.4.3",
+    "@snowpack/plugin-run-script": "^2.3.0",
+    "@snowpack/plugin-typescript": "^1.2.1",
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.15",
+    "daisyui": "^2.51.0",
+    "ejs": "^3.1.8",
+    "nodemon": "^2.0.20",
+    "postcss": "^8.4.21",
+    "snowpack": "^3.8.8",
+    "tailwindcss": "^3.2.7",
+    "typescript": "^4.9.5"
+  }
+}
